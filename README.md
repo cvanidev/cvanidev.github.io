@@ -1,4 +1,4 @@
 cvanidev.github.io
 ==================
 
-FReelance Web Designer and Developer
+Freelance Web Designer and Developer
