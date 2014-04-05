@@ -1,0 +1,58 @@
+body {
+	background-color: #2F2727; 
+	background-position: center center; 
+	background-repeat: no-repeat; 
+	background: -webkit-gradient(radial, center center, 0, center center, 460, from(#1a82f7), to(#2F2727)); 
+	background: -webkit-radial-gradient(circle, #1a82f7, #2F2727); 
+	background: -moz-radial-gradient(circle, #1a82f7, #2F2727); 
+	background: -ms-radial-gradient(circle, #1a82f7, #2F2727);
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-size:20px;
+}
+
+p {
+	margin: 1em 0;
+	line-height: 2em;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+	transition: color .5s ease;
+}
+a:hover {
+	color: #ccc;
+}
+
+header,
+section {
+	margin: 1em auto;
+	max-width:450px;
+	padding: 1em;
+	position:relative;
+	width:auto;
+}
+
+
+header p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+/* Miscellaneous */
+.clear {
+	clear:both;
+}
+article {
+	text-align: center;
+}
+article h2 {
+	margin: 1em 0 0;
+}
+
+
